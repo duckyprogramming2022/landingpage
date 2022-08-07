@@ -43,7 +43,7 @@ a {
 .top {
     display:flex;
     justify-content: space-between;
-    margin-bottom: 48px;
+    margin-bottom: 24px;
     padding-top: 48px;
     align-items: center;
 }
@@ -93,12 +93,15 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom:24px;
 }
 
 .information_header {
     font-size: 36px;
     font-weight: bold;
     color: #1F2937;
+    margin:0px;
+    margin-bottom: 24px;
 }
 
 .images {
@@ -116,7 +119,3 @@ button {
     width: 300px
 }
 
-.test {
-    align-items: flex-end;
-    flex: 1;
-}
