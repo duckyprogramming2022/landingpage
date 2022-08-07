@@ -31,6 +31,7 @@ ul {
     display:flex;
     gap: 18px;
     list-style: none;
+    flex: 0 1 auto;
 }
 
 a {
@@ -80,9 +81,21 @@ button {
     margin-bottom: 6px;
 }
 
-img {
+.up_img {
     height: 200px;
     width:400px;
     object-fit: cover;
     padding-right: 24px;
+}
+
+.middle {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.images {
+    display:flex;
+    justify-content: space-between;
 }
