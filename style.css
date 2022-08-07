@@ -44,10 +44,19 @@ a {
     justify-content: space-between;
 }
 
+.top_cluster1 {
+    max-width: 400px;
+    text-align: left;
+    padding-left: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
 .title {
     font-size: 48px;
     font-weight: bold;
-    color: #F9FAF8
+    color: #F9FAF8;
+    margin: 0px;
 }
 
 img {
