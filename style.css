@@ -2,6 +2,9 @@ body {
     font-family: 'Roboto', sans-serif;
     display:flex;
     flex-direction: column;
+    max-width: 1440px;
+    text-align: center;
+    margin:auto;
 }
 
 .header, .top, .footer {
@@ -14,6 +17,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 8px;
+    max-width: 100%;
 }
 
 .header p {
