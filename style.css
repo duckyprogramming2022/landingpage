@@ -63,6 +63,11 @@ a {
     margin: 0px;
 }
 
+.text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 img {
     height: 200px;
     width:400px;
