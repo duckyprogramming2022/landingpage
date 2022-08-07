@@ -18,6 +18,8 @@ body {
     align-items: center;
     padding: 8px;
     max-width: 100%;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 .header p {
