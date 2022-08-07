@@ -41,6 +41,13 @@ a {
 
 .top {
     display:flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8
 }
 
 img {
