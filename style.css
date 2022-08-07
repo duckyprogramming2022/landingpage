@@ -119,6 +119,11 @@ button {
     width: 300px
 }
 
+.info > img {
+    border-radius:10px;
+    border: 0px;
+}
+
 .quote {
     display: flex;
     flex-direction: column;
