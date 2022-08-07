@@ -13,6 +13,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    padding: 8px;
 }
 
 .header p {
@@ -22,7 +23,7 @@ body {
 
 ul {
     display:flex;
-    gap: 8px;
+    gap: 18px;
     list-style: none;
 }
 
