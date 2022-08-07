@@ -12,11 +12,11 @@ body {
     display:flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
 }
 
 .header p {
-    font-size: 48px;
-    font-weight: extra-bold;
+    font-size: 24px;
     color: #F9FAF8;
 }
 
