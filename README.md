@@ -13,4 +13,5 @@ Motivation & Goals
 - Do everything from scratch (git/github/html/css and solidify knowledge)
 
 
-
+Picture credit goes to:
+- Noelle // For Top picture: https://unsplash.com/photos/Iy55W92QOx4 
