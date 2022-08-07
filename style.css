@@ -91,11 +91,32 @@ button {
 .middle {
     display:flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+}
+
+.information_header {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
 }
 
 .images {
     display:flex;
     justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    column-gap: 16px;
+}
+
+.info {
+    display:flex;
+    flex-direction: column;
+    height:auto;
+    width: 300px
+}
+
+.test {
+    align-items: flex-end;
+    flex: 1;
 }
