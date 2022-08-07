@@ -4,6 +4,10 @@ body {
     flex-direction: column;
 }
 
+.header, .top, .footer {
+    background-color: #1F2937;
+}
+
 .header{
     display:flex;
     flex-direction: row;
