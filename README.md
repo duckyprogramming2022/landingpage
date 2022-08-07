@@ -15,3 +15,4 @@ Motivation & Goals
 
 Picture credit goes to:
 - Noelle // For Top picture: https://unsplash.com/photos/Iy55W92QOx4 
+- amusic11 // For pictures in row: https://pixabay.com/photos/window-building-wall-sky-clouds-7305702/
